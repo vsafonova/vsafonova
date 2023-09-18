@@ -3,12 +3,12 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 
 <p>
-I am a beginner frontend developer. 
+I'm a student at Hyper Island, actively seeking internship opportunities in frontend development as an integral part of my educational journey at the university.
 
-When I started to learn to program, I felt like this was where I belonged for the first time
+When I started to learn programming, I felt like this was where I belonged for the first time.
+My passion for coding was ignited through self-guided programming courses, and from that point onward, I was captivated by the art of bringing ideas to life through code and its immense satisfaction.
 
-My passion for coding began with free programming courses. From there, I became fascinated with the process of creating something from nothing and the sense of accomplishment that came with it.
-I am interested in growing into a great developer and creating useful IT products to make the life of users more manageable and comfortable.
+I am interested in growing into a professional developer and creating useful IT products to improve the life of users My ambition is to continually evolve into a proficient developer, dedicated to crafting innovative IT solutions that enhance user experiences and simplify their daily lives.
 </p>
 <a href="https://vsafonova.github.io/Portfolio/" target="_blank" >Here is my portfolio 👈</a>
 <h3 align="left">Languages:</h3>
