@@ -8,7 +8,7 @@ I'm a student at Hyper Island, actively seeking internship opportunities in fron
 When I started to learn programming, I felt like this was where I belonged for the first time.
 My passion for coding was ignited through self-guided programming courses, and from that point onward, I was captivated by the art of bringing ideas to life through code and its immense satisfaction. <br>
 
-I am interested in growing into a professional developer and creating useful IT products to improve the life of users. My ambition is to continually evolve into a proficient developer, dedicated to crafting innovative IT solutions that enhance user experiences and simplify their daily lives.
+My ambition is to continually evolve into a proficient developer, dedicated to crafting innovative IT solutions that enhance user experiences and simplify their daily lives.
 </p>
 <a href="https://vsafonova.github.io/Portfolio/" target="_blank" >Here is my portfolio 👈</a>
 <h3 align="left">Languages:</h3>
