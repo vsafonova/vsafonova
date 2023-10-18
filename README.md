@@ -10,7 +10,7 @@ My passion for coding was ignited through self-guided programming courses, and f
 
 My ambition is to continually evolve into a proficient developer, dedicated to crafting innovative IT solutions that enhance user experiences and simplify their daily lives.
 </p>
-<a href="https://vsafonova.github.io/Portfolio/" target="_blank" >Here is my portfolio 👈</a>
+<a href= "https://vsafonova.github.io/portfolio-website/" target="_blank" >Here is my portfolio 👈</a>
 <h3 align="left">Languages:</h3>
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>    
