@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 
 <p>
-I'm a student at Hyper Island, actively seeking internship opportunities in frontend development as an integral part of my educational journey at the university.
+Enrolled in a frontend development program at Hyper Island, I actively engage in dynamic group projects, demonstrating exceptional teamwork abilities. Committed to continuous learning, I am fueled by a passion for personal growth and software development. Currently seeking an internship as part of my education, I eagerly anticipate the opportunity to contribute my enthusiasm and expertise to a talented engineering team, delivering high-quality solutions.
 
 When I started to learn programming, I felt like this was where I belonged for the first time.
 My passion for coding was ignited through self-guided programming courses, and from that point onward, I was captivated by the art of bringing ideas to life through code and its immense satisfaction. <br>
