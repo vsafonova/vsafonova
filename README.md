@@ -4,11 +4,6 @@
 
 <p>
 Enrolled in a frontend development program at Hyper Island, I actively engage in dynamic group projects, demonstrating exceptional teamwork abilities. Committed to continuous learning, I am fueled by a passion for personal growth and software development. Currently seeking an internship as part of my education, I eagerly anticipate the opportunity to contribute my enthusiasm and expertise to a talented engineering team, delivering high-quality solutions.
-
-When I started to learn programming, I felt like this was where I belonged for the first time.
-My passion for coding was ignited through self-guided programming courses, and from that point onward, I was captivated by the art of bringing ideas to life through code and its immense satisfaction. <br>
-
-My ambition is to continually evolve into a proficient developer, dedicated to crafting innovative IT solutions that enhance user experiences and simplify their daily lives.
 </p>
 <a href= "https://vsafonova.github.io/portfolio-website/" target="_blank" >Here is my portfolio 👈</a>
 <h3 align="left">Languages:</h3>
