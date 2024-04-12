@@ -5,7 +5,7 @@
 <p>
 Enrolled in a frontend development program at Hyper Island, I actively engage in dynamic group projects, demonstrating exceptional teamwork abilities. Committed to continuous learning, I am fueled by a passion for personal growth and software development. Currently seeking an internship as part of my education, I eagerly anticipate the opportunity to contribute my enthusiasm and expertise to a talented engineering team, delivering high-quality solutions.
 </p>
-<a href= "https://vsafonova.github.io/portfolio-website/" target="_blank" >Here is my portfolio 👈</a>
+<a href= "https://vsafonova-portfolio.netlify.app/" target="_blank" >Here is my portfolio 👈</a>
 <h3 align="left">Languages:</h3>
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>   
