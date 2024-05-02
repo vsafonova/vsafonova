@@ -3,7 +3,11 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 
 <p>
-Enrolled in a frontend development program at Hyper Island, I actively engage in dynamic group projects, demonstrating exceptional teamwork abilities. Committed to continuous learning, I am fueled by a passion for personal growth and software development. Currently seeking an internship as part of my education, I eagerly anticipate the opportunity to contribute my enthusiasm and expertise to a talented engineering team, delivering high-quality solutions.
+A passionate and enthusiastic frontend developer currently enrolled in a program at Hyper Island, I actively engage in dynamic group projects, demonstrating exceptional teamwork abilities. 
+Committed to continuous learning, I am fueled by a passion for personal growth and software development.
+</p>
+<p> At the moment, my knowledge encompasses Git, HTML5, CSS, JavaScript, React.js, Tailwind CSS, Bootstrap, Lighthouse, SEO, API, User Authentication, and Node.js.
+ Additionally, I have a particular interest in developing my skills in React; however, I am fully open to acquiring proficiency in other JavaScript frameworks and libraries, including Vue.js, Angular, Svelte, and next.js, among others.
 </p>
 <a href= "https://vsafonova-portfolio.netlify.app/" target="_blank" >Here is my portfolio 👈</a>
 <h3 align="left">Languages:</h3>
