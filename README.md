@@ -9,7 +9,7 @@
  My journey into the world of web development is driven by a deep curiosity for technology and a desire to create impactful, user-centric digital solutions. With a blend of creativity,  technical skills, and a collaborative spirit, I'm on a mission to build intuitive and responsive web applications.
 </p>
 
-<a href= "https://vsafonova-portfolio.netlify.app/" target="_blank" >Here is my portfolio 👈</a>
+<a href= "https://vsafonova-portfolio.netlify.app/" target="_blank" rel="noreferrer" >Here is my portfolio 👈</a>
 <hr>
 
 <h3 align="left">Languages:</h3>
