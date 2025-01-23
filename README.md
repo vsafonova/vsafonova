@@ -28,6 +28,8 @@
    <a href="https://react.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a>
    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> </a>
   <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+ <a href="https://storybook.js.org" target="_blank" rel="noreferrer"> <img src="https://github.com/get-icon/geticon/blob/master/icons/storybook-icon.svg" alt="storybook" width="40" height="40"/> </a>
+ 
  <h4> 👀 Currently exploring:</h4>
  <a href="https://nextjs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="nextjs" width="40" height="40"/> </a>
  <a href="https://reactnative.dev" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/reactnativedev/images/199b2976-954e-4e42-8d79-12a784e2cdf9.svg" alt="reactNative" width="40" height="40"/> </a>
